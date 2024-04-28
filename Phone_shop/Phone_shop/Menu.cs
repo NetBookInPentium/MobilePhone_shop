@@ -220,14 +220,28 @@ namespace Phone_shop
 				switch(button_num)
 				{
 					case 1:
+						Call_DB.Request($"DELETE FROM Brends WHERE namess = '{comboBox4.Text}'");
+						Call_DB.Close();
+						Select_table("Brends");
 						break; 
 					case 2:
+						Call_DB.Request($"DELETE FROM Mobile_phone WHERE id = {comboBox4.Text}");
+						Call_DB.Close();
+						Select_table("Mobile_phone");
 						break;
 					case 3:
+						Call_DB.Request($"DELETE FROM Saler WHERE Surename = {comboBox4.Text}");
+						Call_DB.Close();
+						Select_table("Saler");
 						break;
 					case 4:
+						Call_DB.Request($"DELETE FROM Sales WHERE id = {comboBox4.Text}");
+						Call_DB.Close();
+						Select_table("Sales");
 						break;
 				}
+				comboBox4.Text = "";
+				
 			}
 			else
 			{
