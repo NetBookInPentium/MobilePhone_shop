@@ -248,5 +248,10 @@ namespace Phone_shop
 				MessageBox.Show("Неверное значение");
 			}
 		}
+
+		private void button13_Click(object sender, EventArgs e)
+		{
+			this.Close();
+		}
 	}
 }
