@@ -1,0 +1,12 @@
+C:\Users\alix2\OneDrive\Документы\GitHub\MobilePhone_shop\Phone_shop\Phone_shop\bin\Debug\Phone_shop.exe.config
+C:\Users\alix2\OneDrive\Документы\GitHub\MobilePhone_shop\Phone_shop\Phone_shop\bin\Debug\Phone_shop.exe
+C:\Users\alix2\OneDrive\Документы\GitHub\MobilePhone_shop\Phone_shop\Phone_shop\bin\Debug\Phone_shop.pdb
+C:\Users\alix2\OneDrive\Документы\GitHub\MobilePhone_shop\Phone_shop\Phone_shop\obj\Debug\Phone_shop.csproj.AssemblyReference.cache
+C:\Users\alix2\OneDrive\Документы\GitHub\MobilePhone_shop\Phone_shop\Phone_shop\obj\Debug\Phone_shop.Form1.resources
+C:\Users\alix2\OneDrive\Документы\GitHub\MobilePhone_shop\Phone_shop\Phone_shop\obj\Debug\Phone_shop.Properties.Resources.resources
+C:\Users\alix2\OneDrive\Документы\GitHub\MobilePhone_shop\Phone_shop\Phone_shop\obj\Debug\Phone_shop.csproj.GenerateResource.cache
+C:\Users\alix2\OneDrive\Документы\GitHub\MobilePhone_shop\Phone_shop\Phone_shop\obj\Debug\Phone_shop.csproj.CoreCompileInputs.cache
+C:\Users\alix2\OneDrive\Документы\GitHub\MobilePhone_shop\Phone_shop\Phone_shop\obj\Debug\Phone_shop.exe
+C:\Users\alix2\OneDrive\Документы\GitHub\MobilePhone_shop\Phone_shop\Phone_shop\obj\Debug\Phone_shop.pdb
+C:\Users\alix2\OneDrive\Документы\GitHub\MobilePhone_shop\Phone_shop\Phone_shop\obj\Debug\Phone_shop.Insert_admin.resources
+C:\Users\alix2\OneDrive\Документы\GitHub\MobilePhone_shop\Phone_shop\Phone_shop\obj\Debug\Phone_shop.Menu.resources
